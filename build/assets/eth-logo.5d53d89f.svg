@@ -1,0 +1,19 @@
+<svg width="58" height="58" viewBox="0 0 58 58" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="1" y="1" width="56" height="56" rx="16" fill="#BFE9FE"/>
+<g clip-path="url(#clip0_868_17048)">
+<path d="M28.7891 6.98047V36.8405L41.8991 29.0005L28.7891 6.98047Z" stroke="#020202" stroke-linejoin="bevel"/>
+<path d="M15.6797 28.9905L28.7897 36.8305V6.98047L15.6797 28.9905Z" stroke="#020202" stroke-linejoin="bevel"/>
+<path d="M28.7891 39.2102V50.1602L41.8991 31.4502L28.7891 39.2102V39.2102Z" stroke="#020202" stroke-linejoin="bevel"/>
+<path d="M15.6797 28.9896L28.7897 36.8296V22.8896L15.6797 28.9896Z" stroke="#020202" stroke-linejoin="bevel"/>
+<path d="M28.7891 22.9004V36.8404L41.8991 29.0004L28.7891 22.9104V22.9004Z" stroke="#020202" stroke-linejoin="bevel"/>
+<path d="M28.7897 6.98047L15.6797 28.9905L28.7897 36.8405L41.8997 28.9905L28.7897 6.98047Z" stroke="#020202"/>
+<path d="M15.6797 31.4404L28.7897 50.1504V39.2004L15.6797 31.4404Z" stroke="#020202" stroke-linejoin="bevel"/>
+<path d="M41.8997 31.4404L28.7897 39.2104L15.6797 31.4404L28.7897 50.1604L41.8997 31.4404Z" stroke="#020202"/>
+</g>
+<rect x="1" y="1" width="56" height="56" rx="16" stroke="#4E4E4E" stroke-width="2"/>
+<defs>
+<clipPath id="clip0_868_17048">
+<rect width="27.58" height="45.03" fill="white" transform="translate(15 6)"/>
+</clipPath>
+</defs>
+</svg>

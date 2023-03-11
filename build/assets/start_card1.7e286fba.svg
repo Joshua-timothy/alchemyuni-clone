@@ -1,0 +1,20 @@
+<svg width="259" height="140" viewBox="0 0 259 140" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_691_20506)">
+<rect width="259" height="140" rx="8" fill="#73FCC2"/>
+<path d="M44 28C44 21.9249 48.9249 17 55 17H204C210.075 17 215 21.9249 215 28V113C215 119.075 210.075 124 204 124H55C48.9249 124 44 119.075 44 113V28Z" fill="#73FCC2" stroke="#5578F8" stroke-width="2"/>
+<line x1="43" y1="37" x2="216" y2="37" stroke="#5578F8" stroke-width="2"/>
+<line y1="78" x2="43" y2="78" stroke="#5578F8" stroke-width="2"/>
+<line x1="216" y1="78" x2="259" y2="78" stroke="#5578F8" stroke-width="2"/>
+<path d="M102.53 99.1376L133.101 108.642L126.297 77.4594L95.7585 68.1066L102.53 99.1376Z" stroke="#5578F8" stroke-width="2" stroke-linejoin="bevel"/>
+<path d="M119.651 46.2711L150.1 55.934L126.259 77.2848L95.7284 67.9594L119.651 46.2711Z" stroke="#5578F8" stroke-width="2" stroke-linejoin="bevel"/>
+<path d="M156.678 86.8702L133.008 108.263L126.248 77.2824L150.07 55.8564L156.678 86.8702Z" stroke="#5578F8" stroke-width="2" stroke-linejoin="bevel"/>
+<circle cx="58" cy="27" r="3" stroke="#5578F8" stroke-width="2"/>
+<circle cx="70" cy="27" r="3" stroke="#5578F8" stroke-width="2"/>
+<circle cx="82" cy="27" r="3" stroke="#5578F8" stroke-width="2"/>
+</g>
+<defs>
+<clipPath id="clip0_691_20506">
+<rect width="259" height="140" rx="8" fill="white"/>
+</clipPath>
+</defs>
+</svg>

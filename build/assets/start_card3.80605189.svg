@@ -1,0 +1,29 @@
+<svg width="259" height="140" viewBox="0 0 259 140" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_868_17287)">
+<rect width="259" height="140" rx="8" fill="#73FCC2"/>
+<path d="M130 109C151.539 109 169 91.5391 169 70C169 48.4609 151.539 31 130 31C108.461 31 91 48.4609 91 70C91 91.5391 108.461 109 130 109Z" stroke="#5578F8" stroke-width="2" stroke-miterlimit="10"/>
+<path d="M130 109C139.389 109 147 91.5391 147 70C147 48.4609 139.389 31 130 31C120.611 31 113 48.4609 113 70C113 91.5391 120.611 109 130 109Z" stroke="#5578F8" stroke-width="2" stroke-miterlimit="10"/>
+<path d="M91 70H169" stroke="#5578F8" stroke-width="2" stroke-miterlimit="10"/>
+<path d="M130 31V109" stroke="#5578F8" stroke-width="2" stroke-miterlimit="10"/>
+<path d="M96 51H164" stroke="#5578F8" stroke-width="2" stroke-miterlimit="10"/>
+<path d="M96 90H164" stroke="#5578F8" stroke-width="2" stroke-miterlimit="10"/>
+<path d="M74 23C74 16.9249 78.9249 12 85 12H175C181.075 12 186 16.9249 186 23V113C186 119.075 181.075 124 175 124H85C78.9249 124 74 119.075 74 113V23Z" stroke="#5578F8" stroke-width="2"/>
+<path d="M260 109C281.539 109 299 91.5391 299 70C299 48.4609 281.539 31 260 31C238.461 31 221 48.4609 221 70C221 91.5391 238.461 109 260 109Z" stroke="#5578F8" stroke-width="2" stroke-miterlimit="10"/>
+<path d="M260 109C269.389 109 277 91.5391 277 70C277 48.4609 269.389 31 260 31C250.611 31 243 48.4609 243 70C243 91.5391 250.611 109 260 109Z" stroke="#5578F8" stroke-width="2" stroke-miterlimit="10"/>
+<path d="M221 70H299" stroke="#5578F8" stroke-width="2" stroke-miterlimit="10"/>
+<path d="M226 51H294" stroke="#5578F8" stroke-width="2" stroke-miterlimit="10"/>
+<path d="M226 90H294" stroke="#5578F8" stroke-width="2" stroke-miterlimit="10"/>
+<path d="M204 23C204 16.9249 208.925 12 215 12H305C311.075 12 316 16.9249 316 23V113C316 119.075 311.075 124 305 124H215C208.925 124 204 119.075 204 113V23Z" stroke="#5578F8" stroke-width="2"/>
+<path d="M-1 109C20.5391 109 38 91.5391 38 70C38 48.4609 20.5391 31 -1 31C-22.5391 31 -40 48.4609 -40 70C-40 91.5391 -22.5391 109 -1 109Z" stroke="#5578F8" stroke-width="2" stroke-miterlimit="10"/>
+<path d="M-1 109C8.38884 109 16 91.5391 16 70C16 48.4609 8.38884 31 -1 31C-10.3888 31 -18 48.4609 -18 70C-18 91.5391 -10.3888 109 -1 109Z" stroke="#5578F8" stroke-width="2" stroke-miterlimit="10"/>
+<path d="M-40 70H38" stroke="#5578F8" stroke-width="2" stroke-miterlimit="10"/>
+<path d="M-35 51H33" stroke="#5578F8" stroke-width="2" stroke-miterlimit="10"/>
+<path d="M-35 90H33" stroke="#5578F8" stroke-width="2" stroke-miterlimit="10"/>
+<path d="M-57 23C-57 16.9249 -52.0751 12 -46 12H44C50.0751 12 55 16.9249 55 23V113C55 119.075 50.0751 124 44 124H-46C-52.0751 124 -57 119.075 -57 113V23Z" stroke="#5578F8" stroke-width="2"/>
+</g>
+<defs>
+<clipPath id="clip0_868_17287">
+<rect width="259" height="140" rx="8" fill="white"/>
+</clipPath>
+</defs>
+</svg>

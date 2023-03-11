@@ -1,0 +1,11 @@
+<svg width="259" height="140" viewBox="0 0 259 140" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="259" height="140" rx="8" fill="#73FCC2"/>
+<rect x="17" y="75" width="77" height="10" rx="5" stroke="#5578F8" stroke-width="2"/>
+<rect x="27" y="95" width="77" height="10" rx="5" stroke="#5578F8" stroke-width="2"/>
+<rect x="36" y="55" width="77" height="10" rx="5" stroke="#5578F8" stroke-width="2"/>
+<rect x="17" y="35" width="77" height="10" rx="5" stroke="#5578F8" stroke-width="2"/>
+<path d="M131 25C131 18.9249 135.925 14 142 14H232C238.075 14 243 18.9249 243 25V115C243 121.075 238.075 126 232 126H142C135.925 126 131 121.075 131 115V25Z" stroke="#5578F8" stroke-width="2"/>
+<path d="M163.53 92.1376L194.101 101.642L187.297 70.4594L156.758 61.1066L163.53 92.1376Z" stroke="#5578F8" stroke-width="2" stroke-linejoin="bevel"/>
+<path d="M180.651 39.2711L211.1 48.934L187.259 70.2848L156.728 60.9594L180.651 39.2711Z" stroke="#5578F8" stroke-width="2" stroke-linejoin="bevel"/>
+<path d="M217.678 79.8702L194.008 101.263L187.248 70.2824L211.07 48.8564L217.678 79.8702Z" stroke="#5578F8" stroke-width="2" stroke-linejoin="bevel"/>
+</svg>

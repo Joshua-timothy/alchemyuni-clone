@@ -1,0 +1,170 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Heebo:wght@200;400;500;600;700&display=swap");
+
+@layer base {
+  body {
+    @apply overflow-x-hidden;
+  }
+
+  :root {
+    /* color */
+    --color-text-blue: #0057da;
+    --color-text-gray: #4e4944;
+    --color-text-black: #020202;
+    --color-text-white: #ffffed;
+    --color-bg-blue: #0057da;
+    --color-bg-black: #020202;
+    --color-bg-white: #ffffed;
+    --color-bg-orange: #fff8ea;
+
+    /* text size */
+  }
+}
+
+@layer utilities {
+  .custom-boxshadow {
+    box-shadow: 0 0 1rem #36bfff3f;
+  }
+  .gradient-text {
+    font-family: monospace;
+    font-weight: 500;
+    background-image: linear-gradient(#36beff, #733ff1);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin-bottom: 1rem;
+  }
+
+  .btn:hover {
+    background-color: var(--color-bg-blue);
+    box-shadow: 0 0 0.2rem var(--color-bg-blue);
+    transition: 0.3s ease-in-out;
+    -webkit-transition: 0.3s ease-in-out;
+    -moz-transition: 0.3s ease-in-out;
+    -ms-transition: 0.3s ease-in-out;
+    -o-transition: 0.3s ease-in-out;
+  }
+
+  .transition-scale {
+    transition: transform 0.3s ease-in-out, border-color 0.3s ease-in-out;
+    -webkit-transition: transform 0.3s ease-in-out,
+      border-color 0.3s ease-in-out;
+    -moz-transition: transform 0.3s ease-in-out, border-color 0.3s ease-in-out;
+    -ms-transition: transform 0.3s ease-in-out, border-color 0.3s ease-in-out;
+    -o-transition: transform 0.3s ease-in-out, border-color 0.3s ease-in-out;
+  }
+}
+
+.navbar {
+  display: none;
+  transition: height 0.5s cubic-bezier(0.15, 1.22, 0.99, 1.05);
+  -webkit-transition: height 0.5s cubic-bezier(0.15, 1.22, 0.99, 1.05);
+  -moz-transition: height 0.5s cubic-bezier(0.15, 1.22, 0.99, 1.05);
+  -ms-transition: height 0.5s cubic-bezier(0.15, 1.22, 0.99, 1.05);
+  -o-transition: height 0.5s cubic-bezier(0.15, 1.22, 0.99, 1.05);
+}
+
+.navbar.active {
+  display: block;
+}
+
+.bar {
+  position: relative;
+}
+
+.bar span {
+  position: absolute;
+  display: block;
+  width: 2rem;
+  height: 0.2rem;
+  background-color: #535462;
+  border-radius: 0.5rem;
+  -webkit-border-radius: 0.5rem;
+  -moz-border-radius: 0.5rem;
+  -ms-border-radius: 0.5rem;
+  -o-border-radius: 0.5rem;
+}
+
+.bar span:first-child {
+  transform: translateY(-0.5rem);
+  -webkit-transform: translateY(-0.5rem);
+  -moz-transform: translateY(-0.5rem);
+  -ms-transform: translateY(-0.5rem);
+  -o-transform: translateY(-0.5rem);
+}
+.bar span:last-child {
+  transform: translateY(0.5rem);
+  -webkit-transform: translateY(0.5rem);
+  -moz-transform: translateY(0.5rem);
+  -ms-transform: translateY(0.5rem);
+  -o-transform: translateY(0.5rem);
+}
+
+.bar.active span:first-child {
+  transform: rotate(-45deg);
+  -webkit-transform: rotate(-45deg);
+  -moz-transform: rotate(-45deg);
+  -ms-transform: rotate(-45deg);
+  -o-transform: rotate(-45deg);
+}
+
+.bar.active span:last-child {
+  transform: rotate(45deg);
+  -webkit-transform: rotate(45deg);
+  -moz-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  -o-transform: rotate(45deg);
+}
+
+.bar.active span:nth-of-type(2) {
+  visibility: hidden;
+}
+
+@keyframes bouncing {
+  0%,
+  20%,
+  50%,
+  80%,
+  100% {
+    transform: translateY(0);
+  }
+  40% {
+    transform: translateY(-30px);
+  }
+  60% {
+    transform: translateY(-15px);
+  }
+}
+
+.cube-bg {
+  animation: bouncing 3s ease-in-out infinite;
+  -webkit-animation: bouncing 3s ease-in-out infinite;
+}
+
+.course-detail {
+  height: 0;
+  overflow: hidden;
+  display: none;
+  transition: 0.5s;
+}
+
+.course-hd.active {
+  border-color: transparent;
+}
+
+.course-hd.active ~ .course-detail {
+  height: 100%;
+  display: block;
+}
+
+.course-hd.active .course-tt {
+  color: #020202;
+}
+
+.course-con.active {
+  background-image: linear-gradient(to bottom right, #36beff, #733ff1);
+}
