@@ -9,7 +9,9 @@
 
 <br/>
 
-### **[Live Link](github.io/joshua-timothy/alchemyuni-clone)**   🔗
+### **[Live Link](https://joshua-timothy.github.io/alchemyuni-clone/)**   🔗
+
+This Project is still on production, but go ahead an check it out.
 
 <br>
 
