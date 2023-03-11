@@ -3,7 +3,7 @@
  <strong>Alchemy University</strong> Website Clone is built for the purpose of DOM manipulation practice 👨‍💻, and to gain an experince of building an entire website, using the opportunity to learn necessary skills in web development in order for me to grow.
 
 ## TECHNOLOGIES USED ⬇
-- **Sematic HTML ⚙**
+- **Semantic HTML5 ⚙**
 - **Tailwindcss** ⚡🌟
 - **VanillaJS** 🚀
 
